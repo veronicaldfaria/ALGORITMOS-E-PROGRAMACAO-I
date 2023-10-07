@@ -1,0 +1,1 @@
+# c = 5*(f-32)/9import mathf = int (input ('Temperatura em Fahrenheit: '))c = 5* (f-32)/9print ('Temperatura em celsius: ', int (c), 'º')print ('Temperatura em celsius: ', c)print ('Temperatura em celsius: ', math.ceil(c))
